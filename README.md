@@ -1,2 +1,3 @@
 # EDURAKA
-this ism my frist repository
+This is my frist repository
+Now we are committing changes.
